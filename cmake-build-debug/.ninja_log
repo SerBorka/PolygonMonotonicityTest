@@ -1,0 +1,5 @@
+# ninja log v5
+0	260	6876558174323619	build.ninja	f5dad5ef590cedea
+1	565	6876554694264656	CMakeFiles/PolygonMonotonicityTest.dir/main.cpp.obj	66b1a2e49881149e
+2	436	6876553819216807	CMakeFiles/PolygonMonotonicityTest.dir/List.cpp.obj	3331946d12c51004
+566	697	6876554695524255	PolygonMonotonicityTest.exe	99a5d713b0ba3520
